@@ -1,0 +1,17 @@
+frase = 'Curso em Video Python'
+#print(frase[3])
+#print(frase[3:13])
+#print(frase[:13])
+#para imprimir um texto longo se usa aspas 3 vezes.
+#print(frase.count('o'))
+#print(frase.upper().count('O'))
+#print(len(frase))
+#print(len(frase.strip()))
+#print(frase.replace('Python', 'android'))
+#print('curso' in frase)
+print(frase.find('Video'))
+#print(frase.lower().find('video'))
+#print(frase.split())
+dividido = frase.split()
+#print(dividido[0])
+#print(dividido[2][3])
